@@ -1,0 +1,37 @@
+Data Size : 1000
+
+Insertion Sort       : 243057 comparisons
+Shell Sort (Original): 15210 comparisons
+Shell Sort (Knuth)   : 13769 comparisons
+
+Data Size : 2000
+
+Insertion Sort       : 1022250 comparisons
+Shell Sort (Original): 37395 comparisons
+Shell Sort (Knuth)   : 32435 comparisons
+
+Data Size : 4000
+
+Insertion Sort       : 3915076 comparisons
+Shell Sort (Original): 82799 comparisons
+Shell Sort (Knuth)   : 79155 comparisons
+
+Data Size : 8000
+
+Insertion Sort       : 15931302 comparisons
+Shell Sort (Original): 201215 comparisons
+Shell Sort (Knuth)   : 183407 comparisons
+
+Data Size : 16000
+
+Insertion Sort       : 63663846 comparisons
+Shell Sort (Original): 489692 comparisons
+Shell Sort (Knuth)   : 404109 comparisons
+
+Data Size : 20000
+
+Insertion Sort       : 99924864 comparisons
+Shell Sort (Original): 620946 comparisons
+Shell Sort (Knuth)   : 538279 comparisons
+
+모든 정렬 결과가 오름차순으로 올바르게 정렬되었습니다.
